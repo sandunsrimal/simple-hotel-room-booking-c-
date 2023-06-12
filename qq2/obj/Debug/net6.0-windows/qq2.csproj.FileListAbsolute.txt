@@ -1,0 +1,17 @@
+C:\Users\dulan\OneDrive\Documents\New folder\qq2\qq2\bin\Debug\net6.0-windows\qq2.exe
+C:\Users\dulan\OneDrive\Documents\New folder\qq2\qq2\bin\Debug\net6.0-windows\qq2.deps.json
+C:\Users\dulan\OneDrive\Documents\New folder\qq2\qq2\bin\Debug\net6.0-windows\qq2.runtimeconfig.json
+C:\Users\dulan\OneDrive\Documents\New folder\qq2\qq2\bin\Debug\net6.0-windows\qq2.dll
+C:\Users\dulan\OneDrive\Documents\New folder\qq2\qq2\bin\Debug\net6.0-windows\qq2.pdb
+C:\Users\dulan\OneDrive\Documents\New folder\qq2\qq2\obj\Debug\net6.0-windows\qq2.csproj.AssemblyReference.cache
+C:\Users\dulan\OneDrive\Documents\New folder\qq2\qq2\obj\Debug\net6.0-windows\qq2.Form1.resources
+C:\Users\dulan\OneDrive\Documents\New folder\qq2\qq2\obj\Debug\net6.0-windows\qq2.csproj.GenerateResource.cache
+C:\Users\dulan\OneDrive\Documents\New folder\qq2\qq2\obj\Debug\net6.0-windows\qq2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dulan\OneDrive\Documents\New folder\qq2\qq2\obj\Debug\net6.0-windows\qq2.AssemblyInfoInputs.cache
+C:\Users\dulan\OneDrive\Documents\New folder\qq2\qq2\obj\Debug\net6.0-windows\qq2.AssemblyInfo.cs
+C:\Users\dulan\OneDrive\Documents\New folder\qq2\qq2\obj\Debug\net6.0-windows\qq2.csproj.CoreCompileInputs.cache
+C:\Users\dulan\OneDrive\Documents\New folder\qq2\qq2\obj\Debug\net6.0-windows\qq2.dll
+C:\Users\dulan\OneDrive\Documents\New folder\qq2\qq2\obj\Debug\net6.0-windows\refint\qq2.dll
+C:\Users\dulan\OneDrive\Documents\New folder\qq2\qq2\obj\Debug\net6.0-windows\qq2.pdb
+C:\Users\dulan\OneDrive\Documents\New folder\qq2\qq2\obj\Debug\net6.0-windows\qq2.genruntimeconfig.cache
+C:\Users\dulan\OneDrive\Documents\New folder\qq2\qq2\obj\Debug\net6.0-windows\ref\qq2.dll
